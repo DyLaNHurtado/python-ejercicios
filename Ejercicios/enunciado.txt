@@ -1,0 +1,53 @@
+Realiza los siguientes ejercicios de Python:
+
+Primeros programas:
+-Crea un programa que solicite tu nombre y te de la bienvenida al curso de sistemas de gestión empresarial con una frase tipo “Hola NOMBRE! Bienvenido al curso de SGE 21/22”.
+
+-Haz un programa que adivine la talla de pie y la edad del usuario que lo ejecute. Se basa en un sencillo truco matemático. El programa debe pedir al usuario que realice las siguientes operaciones (las operaciones la tiene que realizar el de cabeza, no el programa):
+Pensar, escribir o apuntar su talla de zapato.
+Multiplicar ese número por 5.
+Sumarle 50.
+Multiplicarlo por 20.
+Sumarle 1022.
+Restarle el año de nacimiento.
+
+Después debes preguntarle el resultado y calcular su talla de zapato. Para obtener la talla, las dos primeras cifras corresponderán a la talla del zapato y las dos siguientes a la edad del usuario.
+
+Control de flujo:
+-Programa que dibuje con asteriscos un triángulo rectángulo isósceles de N asteriscos de alto. Opcional: pintar triangulo rectángulo escaleno.
+
+-Programa que adivine el numero en el que está pensando (entre 0 y 100) el usuario por tanteo (preguntando sucesivamente si es mayor o menor que un número aleatorio de partida)
+
+-Usar un for para imprimir por pantalla todos los múltiplos de 7 menores de 100.
+
+Trabajo con cadenas de caracteres:
+
+-Solicitar una oración por teclado y realizar las siguientes operaciones sobre ella:
+-Mostrar longitud de la cadena.
+-Mostrar espacios en blanco se ingresaron.
+-Mostrar toda la oración en letras mayúsculas.
+-Duplicar el contenido de la cadena.
+-Dividir la cadena en una lista de palabras y recorrerla mostrándola y numerando cada palabra.
+Colecciones:
+-Definir una lista por asignación con 5 enteros. Mostrar por pantalla solo los elementos con valor iguales o superiores a 7.
+-Crear un programa que almacene nombres de personas, tras introducir un nombre nuevo mostrará un conteo de los nombres que tienen 5 o más caracteres y preguntará si desea introducir un nuevo nombre o salir del programa. Opcional: Cargar palabras a partir de un archivo txt.
+-Crear un programa que almacene con dos opciones: 1. Agregar personas: permite introducir nombres de personas de forma interactiva, 2. Sorteo: devuelve el nombre de una persona al azar. Opcional: Cargar nombre a partir de un archivo csv.
+
+-Crear un programa “Diccionario” que permita consultar definiciones, agregar nuevas palabras con su definición o eliminar palabras. Opcional: Cargar diccionario a partir de un archivo csv.
+
+-Ingresar por teclado los nombres de 5 personas y almacenarlos en una lista. Crear una nueva lista con los nombres ordenados alfabéticamente e imprimirla por pantalla. Opcional: Crea una función que ordene os nombres por su longitud para pasársela como parámetro al método Short.
+
+-Crear una lista con contenido [[50,34,70,20], [5,70,30,25], [10,5], [75,43,56,32,89], [[54,72]]. Imprimir la lista, asignar valor cero a todos los elementos mayores a 50 y volver a imprimir la lista.
+Funciones:
+
+-Confeccionar un programa que calcule el factorial de un número introducido por teclado:
+
+-Escribe una función que tome una palabra y retorne con todas las letras en minúscula menos la primera y la última.
+
+-Reescribe el ejercicio 3 del apartado “Colecciones” utilizando una función para presentar el menú y recibir la opción seleccionada.
+
+Objetos:
+
+-Crea una clase “Saludo” que tenga los métodos: formal, informal y aleatorio. Los métodos pueden aceptar un parámetro (nombre de la persona a saludar) o ninguno (saludo genérico), el método aleatorio imprimirá un saludo aleatorio de una lista de saludos almacenados en la clase.
+
+-Reescribe el ejercicio 3 del apartado “Colecciones” con orientación a objetos. Opcional: Usa herencia para tener un diccionarios de al menos dos idiomas. Añade las opciones de importar o exportar el diccionario a un fichero.
